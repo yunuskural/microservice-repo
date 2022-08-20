@@ -1,0 +1,3 @@
+limit-service-qa:
+ minimum: 8
+ maximum: 992
